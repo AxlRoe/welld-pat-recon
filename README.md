@@ -21,12 +21,12 @@ requirements:
 - java: 11
 - maven: 3
 
-Build application
-run command mvn install
+Build application <br/>
+run command mvn install <br/>
 
-Run the application
-run command java -jar welld-1.0.jar
-The application listen on port 8888
+Run the application <br/>
+run command java -jar welld-1.0.jar <br/>
+The application listen on port 8888 <br/>
 
 
 
