@@ -1,4 +1,4 @@
-In order to understand which point lay on the same line, I consider the slope between points
+In order to understand which points lay on the same line, I consider the slope between points
 calculated as a tuple in this way: (y2-y1, x2-x1) and not as the ratio (y2-y1)/(x2-x1), in order to
 avoid potential precision problems that could come up from the ratio.
 
