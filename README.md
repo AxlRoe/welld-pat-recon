@@ -4,7 +4,7 @@ avoid potential precision problems that could come up from the ratio.
 
 I keep track of the inserted points in a list, that will represent the space. Every time user inserts a point,
 I will calculate the slope between the inserted point and the already inserted ones and I will keep track of these
-slopes in a map with multiple values like this: <slope, <list of points having the same slope>>
+slopes in a map with multiple values like this: <slope, \<list of points having the same slope\>>
 Each entry in the map represent a line that pass through N points
 
 The codebase is organized in the following way:
